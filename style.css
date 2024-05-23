@@ -23,7 +23,7 @@ input[type="text"]{
     height: 18px;
     border-radius: 2px;
 }
-input[type="age"]{
+input[type="number"]{
     width: 100%;
     font-size: small;
     height: 18px;
