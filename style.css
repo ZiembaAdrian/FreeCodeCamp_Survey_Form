@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(50, 50, 135);
+    color: white;
+}
+form{
+    margin-left: 490px;
+    box-sizing: border-box;
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(10, 10, 64);
+    padding: 50px;
+    font-size: large;
+}
+h1{
+    text-align: center;
+}
+header p{
+    text-align: center;
+}
+input[type="text"]{
+    width: 100%;
+    font-size: small;
+    height: 18px;
+    border-radius: 2px;
+}
+input[type="age"]{
+    width: 100%;
+    font-size: small;
+    height: 18px;
+    border-radius: 2px;
+}
+label{
+    display: flex;
+}
+#dropdown{
+    width: 100%;
+    font-size: small;
+    height: 25px;
+}
+button{
+    width: 50%;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: rgb(188, 211, 153);
+    color: black;
+}
+button:hover{
+    transition: 0.3s;
+    background-color: greenyellow;
+}
